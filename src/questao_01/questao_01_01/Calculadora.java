@@ -1,4 +1,4 @@
-package trabalho_poo.questao_01.questao_01_01;
+package questao_01.questao_01_01;
 
 public class Calculadora {
 

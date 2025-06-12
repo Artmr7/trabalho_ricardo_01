@@ -1,7 +1,5 @@
 package questao_02.questao_02_01;
 
-import br.com.trabalho_poo.questao_02.questao_02_01.MaiorMenor;
-
 import java.util.Scanner;
 
 public class main {
