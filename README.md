@@ -1,1 +1,0 @@
-# trabalho_ricardo_01
