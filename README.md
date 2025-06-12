@@ -4,7 +4,7 @@ Este repositório contém a implementação de diversas questões de programaç�
 
 - Estrutura condicional e repetição
 - Manipulação de strings
-- Classes e métodos
+- Classes e métodos 
 - Orientação a objetos com encapsulamento
 
 ## Estrutura do Projeto
